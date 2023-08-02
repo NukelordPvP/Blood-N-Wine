@@ -1,0 +1,1 @@
+recipes.remove(<slabmachines:furnace_slab>);

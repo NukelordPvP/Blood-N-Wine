@@ -1,0 +1,23 @@
+{
+	"biome": "biomesoplenty:undergarden",
+	"generationWeight": 4,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "betteranimalsplus:zotzpyre"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:pinky"
+		}
+	],
+	"traits": [],
+	"subBiomes": []
+}

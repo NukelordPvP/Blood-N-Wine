@@ -1,0 +1,1362 @@
+[
+  {
+    "state": {
+      "block": "netherchest:nether_chest",
+      "properties": {}
+    },
+    "temperature": 2
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_adamantine",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_alduorite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_angmallen",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_astral_silver",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_atlarus",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_black_steel",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_brass",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_bronze",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_carmot",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_celenegil",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_ceruclase",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_copper",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_damascus_steel",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_deep_iron",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_desichalkos",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_electrum",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_eximite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_haderoth",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_hepatizon",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_ignatius",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_infuscolium",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_inolashite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_kalendrite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_krik",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_lemurite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_manganese",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_meutoite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_midasium",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_mithril",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_orichalcum",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_oureclase",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_osmium",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_prometheum",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_quicksilver",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_rubracium",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_shadow_iron",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_shadow_steel",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_silver",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_steel",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_tartarite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_tin",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_vulcanite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_vyroxeres",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_tar",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_zinc",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_thermite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_amordrine",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_sanguinite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_lutetium",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_platinum",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:molten_brass",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "metallurgy:phosphorus_lamp",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:crystal",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:mushroom",
+      "metadata": 3,
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:flower_0",
+      "metadata": [
+              3,
+              15
+      ],
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:hard_ice",
+      "properties": {}
+    },
+    "temperature": -2
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:blue_fire",
+      "properties": {}
+    },
+    "temperature": 3
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:hot_spring_water",
+      "properties": {}
+    },
+    "temperature": 6
+  },
+  {
+    "state": {
+      "block": "bewitchment:white_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:orange_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:magenta_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:light_blue_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:yellow_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:lime_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:pink_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:gray_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:light_gray_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:cyan_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:purple_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:blue_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:brown_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:green_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:red_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:black_candle",
+      "metadata": 1,
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:embergrass",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:torchwood",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "bewitchment:perpetual_ice",
+      "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "bewitchment:perpetual_ice_stairs",
+      "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "bewitchment:perpetual_ice_slab",
+      "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "bewitchment:perpetual_ice_fence",
+      "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "bewitchment:embittered_bricks",
+      "properties": {}
+    },
+    "temperature": -2
+  },
+  {
+    "state": {
+      "block": "bewitchment:cracked_embittered_bricks",
+      "properties": {}
+    },
+    "temperature": -2
+  },
+  {
+    "state": {
+      "block": "bewitchment:chiseled_embittered_bricks",
+      "properties": {}
+    },
+    "temperature": -2
+  },
+  {
+    "state": {
+      "block": "bewitchment:embittered_brick_stairs",
+      "properties": {}
+    },
+    "temperature": -2
+  },
+  {
+    "state": {
+      "block": "bewitchment:embittered_brick_fence",
+      "properties": {}
+    },
+    "temperature": -2
+  },
+  {
+    "state": {
+      "block": "bewitchment:embittered_brick_witches_altar",
+      "properties": {}
+    },
+    "temperature": -5
+  },
+  {
+    "state": {
+      "block": "natura:nether_glowshroom",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "natura:lit_netherrack_furnace",
+      "properties": {}
+    },
+    "temperature": 3
+  },
+  {
+    "state": {
+      "block": "natura:nether_green_large_glowshroom",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "natura:nether_blue_large_glowshroom",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "natura:nether_purple_large_glowshroom",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "minecraft:glowstone",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "minecraft:lit_pumpkin",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "minecraft:sea_lantern",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "minecraft:magma",
+      "properties": {}
+    },
+    "temperature": 8
+  },
+  {
+    "state": {
+      "block": "minecraft:torch",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "minecraft:lit_furnace",
+      "properties": {}
+    },
+    "temperature": 2
+  },
+  {
+    "state": {
+      "block": "minecraft:lava",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "minecraft:flowing_lava",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "minecraft:ice",
+      "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "minecraft:packed_ice",
+      "properties": {}
+    },
+    "temperature": -2
+  },
+  {
+    "state": {
+      "block": "tconstruct:smeltery_controller",
+      "properties": {}
+    },
+    "temperature": 5
+  },
+  {
+    "state": {
+      "block": "tconstruct:seared_furnace_controller",
+      "properties": {}
+    },
+    "temperature": 5
+  },
+  {
+    "state": {
+      "block": "tconstruct:tinker_tank_controller",
+      "properties": {}
+    },
+    "temperature": 5
+  },
+  {
+    "state": {
+      "block": "tconstruct:stone_torch",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_stone",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_gold",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_pigiron",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_cobalt",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_ardite",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_manyullyn",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_knightslime",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_copper",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_tin",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_bronze",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_brass",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_zinc",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_silver",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_electrum",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_steel",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_obsidian",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_clay",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_dirt",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_emerald",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_glass",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "tconstruct:molten_iron",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco1",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco2",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco3",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco4",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco5",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco6",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco7",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco8",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco9",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco10",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco10",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco11",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco12",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco13",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco14",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco15",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "harvestcraft:candledeco16",
+      "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:shimmerleaf",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:cinderpearl",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:vishroom",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_white",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_orange",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_magenta",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_lightblue",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_yellow",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_lime",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_pink",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_gray",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_silver",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_cyan",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_purple",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_blue",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_brown",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_green",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_red",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "thaumcraft:candle_black",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "tp:colored_lamp",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "quark:magma_bricks",
+    "properties": {}
+    },
+    "temperature": 3
+  },
+  {
+    "state": {
+      "block": "quark:magma_bricks_stairs",
+    "properties": {}
+    },
+    "temperature": 3
+  },
+  {
+    "state": {
+      "block": "quark:magma_bricks_slab",
+    "properties": {}
+    },
+    "temperature": 3
+  },
+  {
+    "state": {
+      "block": "quark:smoker",
+    "properties": {}
+    },
+    "temperature": 5
+  },
+  {
+    "state": {
+      "block": "quark:lit_lamp",
+    "properties": {}
+    },
+    "temperature": 1
+  },
+  {
+    "state": {
+      "block": "quark:biome_cobblestone",
+    "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "quark:biome_brick",
+    "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "quark:icy_stone_slab",
+    "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "quark:icy_stone_stairs",
+    "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "quark:icy_stone_brick_slab",
+    "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "quark:icy_stone_brick_stairs",
+    "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:demoncrystal",
+      "properties": {}
+    },
+    "temperature": 4
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:frostcloud",
+      "properties": {}
+    },
+    "temperature": -1
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:doomfire",
+      "properties": {}
+    },
+    "temperature": 3
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:ooze",
+      "properties": {}
+    },
+    "temperature": -10
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:hellfire",
+      "properties": {}
+    },
+    "temperature": 3
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:frostfire",
+      "properties": {}
+    },
+    "temperature": -3
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:icefire",
+      "properties": {}
+    },
+    "temperature": -3
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:purelava",
+      "properties": {}
+    },
+    "temperature": 12
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:scorchfire",
+      "properties": {}
+    },
+    "temperature": 3
+  },
+  {
+    "state": {
+      "block": "defiledlands:hephaestite_ore",
+      "properties": {}
+    },
+    "temperature": 2
+  },
+  {
+    "state": {
+      "block": "defiledlands:hephaestite_block",
+      "properties": {}
+    },
+    "temperature": 5
+  },
+  {
+    "state": {
+      "block": "defiledlands:molten_umbrium",
+      "properties": {}
+    },
+    "temperature": 10
+  },
+  {
+    "state": {
+      "block": "toughasnails:campfire",
+      "properties": {
+        "burning": "true"
+      }
+    },
+    "temperature": 7.5
+  },
+  {
+    "state": {
+      "block": "stygian:endglow",
+      "properties": {}
+    },
+    "temperature": 3
+  },
+  {
+    "state": {
+      "block": "tcomplement:melter",
+      "properties": {}
+    },
+    "temperature": 5
+  },
+  {
+    "state": {
+      "block": "tcomplement:high_oven_controller",
+      "properties": {}
+    },
+    "temperature": 5
+  }
+]

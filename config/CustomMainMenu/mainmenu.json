@@ -1,0 +1,196 @@
+{
+	"images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
+        },
+
+        "edition":
+        {
+            "image" : "mainmenu:blank.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Me, Myself and I",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+        "multiplayer":
+        {
+            "text" : "Socialize",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "Rage Quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "By NukelordPvP!",
+            "hoverText" : "By NukelordPvP!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+
+    "other":
+    {
+	    "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+
+		"background": {
+            "image": "",
+            "slideshow": {
+                "images":
+				[
+                    "mainmenu:screenshot1.png",
+					"mainmenu:screenshot2.png",
+					"mainmenu:screenshot3.png",
+					"mainmenu:screenshot4.png",
+					"mainmenu:screenshot5.png",
+					"mainmenu:screenshot6.png",
+					"mainmenu:screenshot7.png",
+					"mainmenu:screenshot8.png",
+					"mainmenu:screenshot9.png",
+					"mainmenu:screenshot10.png",
+					"mainmenu:screenshot11.png",
+					"mainmenu:screenshot12.png",
+					"mainmenu:screenshot13.png",
+					"mainmenu:screenshot14.png",
+					"mainmenu:screenshot15.png",
+					"mainmenu:screenshot16.png",
+					"mainmenu:screenshot17.png",
+					"mainmenu:screenshot18.png",
+					"mainmenu:screenshot19.png",
+					"mainmenu:screenshot20.png",
+					"mainmenu:screenshot20.png"
+                ],
+                "displayDuration": 50,
+                "fadeDuration": 50,
+                "shuffle": "true"
+            }
+        }
+    }
+}

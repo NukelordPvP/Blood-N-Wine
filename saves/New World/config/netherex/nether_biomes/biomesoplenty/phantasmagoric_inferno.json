@@ -1,0 +1,77 @@
+{
+	"biome": "biomesoplenty:phantasmagoric_inferno",
+	"generationWeight": 6,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "lycanitesmobs:crusk"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:eyewig"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:lurker"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "lycanitesmobs:erepede"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "betteranimalsplus:zotzpyre"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:joust"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:aspid"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:pinky"
+		}, 
+		{
+			"spawnWeight": 16,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "betteranimalsplus:deer"
+		}, 
+		{
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 6,
+			"entity": "betteranimalsplus:feralwolf"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 6,
+			"entity": "betteranimalsplus:fox"
+		}
+	],
+	"traits": [],
+	"subBiomes": []
+}

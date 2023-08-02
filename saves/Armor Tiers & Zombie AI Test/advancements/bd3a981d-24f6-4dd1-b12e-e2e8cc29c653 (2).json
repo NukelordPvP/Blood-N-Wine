@@ -1,0 +1,26 @@
+{
+  "exoticbirds:eb/root": {
+    "criteria": {
+      "trigger_1": "2020-04-28 13:53:10 -0700"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2020-04-28 13:53:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-05-26 18:59:45 -0700"
+    },
+    "done": false
+  },
+  "bewitchment:root": {
+    "criteria": {
+      "tick": "2020-04-28 13:53:11 -0700"
+    },
+    "done": true
+  }
+}

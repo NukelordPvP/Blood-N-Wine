@@ -1,0 +1,137 @@
+{
+	"biome": "biomesoplenty:visceral_heap",
+	"generationWeight": 4,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [
+		{
+			"spawnWeight": 50,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:ghast"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:zombie_pigman"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:magma_cube"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:enderman"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "minecraft:blaze"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "quark:foxhound"
+		}, 
+		{
+			"spawnWeight": 60,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6,
+			"entity": "quark:wraith"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "thaumcraft:firebat"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:wisp"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "lycanitesmobs:astaroth"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:behemoth"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 6,
+			"entity": "lycanitesmobs:trite"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:belph"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6,
+			"entity": "natura:nitrocreeper"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:gouldianfinch"
+		}, 
+		{
+			"spawnWeight": 18,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:hummingbird"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:lyrebird"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:parrot"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:toucan"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:budgerigar"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 8,
+			"maximumGroupCount": 12,
+			"entity": "natura:imp"
+		}
+	],
+	"traits": [],
+	"subBiomes": []
+}

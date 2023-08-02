@@ -1,0 +1,23 @@
+{
+	"biome": "biomesoplenty:fungi_forest",
+	"generationWeight": 4,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:aspid"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:pinky"
+		}
+	],
+	"traits": [],
+	"subBiomes": []
+}

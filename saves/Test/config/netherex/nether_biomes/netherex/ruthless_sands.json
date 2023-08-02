@@ -1,0 +1,351 @@
+{
+	"biome": "netherex:ruthless_sands",
+	"generationWeight": 8,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {
+		"surface": {
+			"block": "minecraft:soul_sand"
+		},
+		"liquid": {
+			"block": "minecraft:lava"
+		},
+		"subsurface": {
+			"block": "netherex:gloomy_netherrack"
+		}
+	},
+	"entities": [
+		{
+			"spawnWeight": 65,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:wither_skeleton"
+		}, 
+		{
+			"spawnWeight": 45,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:zombie_pigman"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "netherex:spinout"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "thaumcraft:firebat"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:wisp"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:barghest"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:kobold"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "lycanitesmobs:crusk"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "lycanitesmobs:astaroth"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "lycanitesmobs:zoataur"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:gorgomite"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:cryptkeeper"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:behemoth"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:quillbeast"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:clink"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:sutiramu"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "lycanitesmobs:erepede"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 6,
+			"entity": "lycanitesmobs:trite"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:ventoraptor"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:belph"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:feradon"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6,
+			"entity": "natura:nitrocreeper"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:gouldianfinch"
+		}, 
+		{
+			"spawnWeight": 18,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:hummingbird"
+		}, 
+		{
+			"spawnWeight": 12,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:magpie"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:ostrich"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:peafowl"
+		}, 
+		{
+			"spawnWeight": 12,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:pigeon"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:roadrunner"
+		}, 
+		{
+			"spawnWeight": 12,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:cardinal"
+		}, 
+		{
+			"spawnWeight": 12,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:bluejay"
+		}, 
+		{
+			"spawnWeight": 12,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:robin"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:crane"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:kookaburra"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5,
+			"entity": "exoticbirds:budgerigar"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:arisaur"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:joust"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:pinky"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "lycanitesmobs:maka"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 8,
+			"maximumGroupCount": 12,
+			"entity": "natura:imp"
+		}
+	],
+	"traits": [
+		{
+			"generationAttempts": 8,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToTarget": {
+				"block": "netherex:gloomy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:fluid",
+			"maximumGenerationHeight": 124,
+			"generateFalling": false
+		}, 
+		{
+			"generationAttempts": 10,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"randomizeGenerationAttempts": true,
+			"trait": "libraryex:cluster",
+			"maximumGenerationHeight": 124,
+			"blockToAttachTo": {
+				"block": "netherex:gloomy_netherrack"
+			},
+			"direction": "down"
+		}, 
+		{
+			"generationAttempts": 10,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 1,
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:cluster",
+			"maximumGenerationHeight": 128,
+			"blockToAttachTo": {
+				"block": "netherex:gloomy_netherrack"
+			},
+			"direction": "down"
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"blockToTarget": {
+				"block": "netherex:gloomy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:fluid",
+			"maximumGenerationHeight": 118,
+			"generateFalling": true
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "plant_decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 32,
+			"randomizeGenerationAttempts": false,
+			"trait": "netherex:thornstalk",
+			"maximumGenerationHeight": 108
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "ore",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"veinSize": 14,
+			"blockToSpawn": {
+				"block": "netherex:quartz_ore"
+			},
+			"randomizeGenerationAttempts": false,
+			"blockToReplace": {
+				"block": "netherex:gloomy_netherrack"
+			},
+			"trait": "libraryex:ore",
+			"maximumGenerationHeight": 108
+		}
+	],
+	"subBiomes": []
+}

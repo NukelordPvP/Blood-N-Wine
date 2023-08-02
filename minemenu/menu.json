@@ -1,0 +1,134 @@
+{
+  "main": {
+    "0": {
+      "title": "Better Foliage",
+      "icon": {
+        "name": "minecraft:leaves",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.betterfoliage.gui",
+          "toggle": true
+        }
+      }
+    },
+    "1": {
+      "title": "Chunk Pre-Generator - Options",
+      "icon": {
+        "name": "minecraft:sapling",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "Options Gui",
+          "toggle": true
+        }
+      }
+    },
+    "2": {
+      "title": "Advancements",
+      "icon": {
+        "name": "minecraft:map",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.advancements",
+          "toggle": true
+        }
+      }
+    },
+    "3": {
+      "title": "Lycanitesmobs - Beastiary",
+      "icon": {
+        "name": "lycanitesmobs:arthropodspawn",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.beastiary",
+          "toggle": true
+        }
+      }
+    },
+    "4": {
+      "title": "More Overlays - Show/Hide Dark Spots",
+      "icon": {
+        "name": "minecraft:glass_pane",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.moreoverlays.lightoverlay.desc",
+          "toggle": false
+        }
+      }
+    },
+    "5": {
+      "title": "More Overlays - Show/Hide Chunk Boundaries",
+      "icon": {
+        "name": "minecraft:iron_bars",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.moreoverlays.chunkbounds.desc",
+          "toggle": false
+        }
+      }
+    },
+    "6": {
+      "title": "Fancy Block Particles - Options",
+      "icon": {
+        "name": "minecraft:dye",
+        "damage": 3
+      },
+      "action": {
+        "key": {
+          "key": "Open Menu",
+          "toggle": false
+        }
+      }
+    },
+    "7": {
+      "title": "JourneyMap - Toggle All Waypoints",
+      "icon": {
+        "name": "minecraft:beacon",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.journeymap.toggle_waypoints",
+          "toggle": true
+        }
+      }
+    },
+    "8": {
+      "title": "Toast Control - Clear Active Toasts",
+      "icon": {
+        "name": "harvestcraft:pumpkinbreaditem",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.toastcontrol.clear",
+          "toggle": true
+        }
+      }
+    },
+    "9": {
+      "title": "Dynamic Lights Toggle",
+      "icon": {
+        "name": "minecraft:torch",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "Dynamic Lights toggle",
+          "toggle": false
+        }
+      }
+    }
+  }
+}

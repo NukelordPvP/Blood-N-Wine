@@ -1,0 +1,15 @@
+{
+  "itemName": "ironpikejoint",
+  "loadDefault": false,
+  "slotType": "head",
+  "dropMobId": "",
+  "dropchance":0,
+  "levelMin": 1,
+  "levelMax": 1,
+  "features": [
+    {
+      "featureType": "slot",
+      "slotType": "pike"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "arcanelaserstorm",
+  "loadDefault": false,
+  "width": 2.0,
+  "height": 2.0,
+  "scale": 2.5,
+  "damage": 10,
+  "pierce": 3,
+  "knockbackChance": 0.5,
+  "effectDuration": 3,
+  "effectAmplifier": 1,
+  "velocity": 0.8,
+  "weight": 0,
+  "lifetime": 200,
+  "elements": [
+    "order",
+    "chaos"
+  ],
+  "behaviours": [
+    {
+      "type": "fireProjectiles",
+      "projectileName": "arcanelaser",
+      "tickRate": 1,
+      "persistentCount": 5,
+      "impactCount": 0
+    }
+  ],
+  "waterproof": true,
+  "lavaproof": true,
+  "cutGrass": false,
+  "impactSound": false,
+  "ripper": false,
+  "pierceBlocks": false,
+  "glow": true,
+  "rollSpeed": 2
+}

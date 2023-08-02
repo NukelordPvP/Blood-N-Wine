@@ -1,0 +1,3 @@
+#Make backpack harder to craft.
+recipes.removeShaped(<wearablebackpacks:backpack>);
+recipes.addShaped(<wearablebackpacks:backpack>, [[<harvestcraft:hardenedleatheritem>,oreDict.ingotTin,<harvestcraft:hardenedleatheritem>],[<harvestcraft:hardenedleatheritem>,oreDict.blockWoolWhite,<harvestcraft:hardenedleatheritem>],[<harvestcraft:hardenedleatheritem>,<harvestcraft:hardenedleatheritem>,<harvestcraft:hardenedleatheritem>]]);

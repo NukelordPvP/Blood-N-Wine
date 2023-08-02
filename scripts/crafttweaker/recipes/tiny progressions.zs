@@ -1,0 +1,9 @@
+#Remove
+recipes.remove(<tp:large_med_kit>);
+recipes.remove(<tp:small_med_kit>);
+recipes.remove(<tp:large_bandage>);
+recipes.remove(<tp:juicer>);
+recipes.remove(<tp:colored_glowstone:*>);
+recipes.remove(<tp:colored_dust:*>);
+recipes.remove(<tp:obsidian_dust>);
+recipes.remove(<tp:iron_furnace_block>);

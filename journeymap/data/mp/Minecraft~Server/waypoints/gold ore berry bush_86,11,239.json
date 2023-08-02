@@ -1,0 +1,18 @@
+{
+  "id": "gold ore berry bush_86,11,239",
+  "name": "gold ore berry bush",
+  "icon": "waypoint-normal.png",
+  "x": 86,
+  "y": 11,
+  "z": 239,
+  "r": 203,
+  "g": 122,
+  "b": 8,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
